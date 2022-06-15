@@ -25,7 +25,7 @@
       "alias": {
         "cta-background-3plus-blue": {
           "type": "color",
-          "value": "{global.3plus-blue-500}"
+          "value": "#000"
         }
       },
       "size-sm": {
