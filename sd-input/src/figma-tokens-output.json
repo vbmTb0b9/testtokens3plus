@@ -46,6 +46,10 @@
     "round-lg": {
       "value": "{round-sm} * 4",
       "type": "borderRadius"
+    },
+    "size-xlg": {
+      "value": "32",
+      "type": "sizing"
     }
   },
   "$themes": []
