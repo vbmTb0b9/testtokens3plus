@@ -7,8 +7,8 @@ import '../src/style.css';
 
 ```js preview-story
 export const main = () => `
-<p class="blue-500 font-sm">Test Blue 500</p>
-<p class="blue-400">Test Blue 400</p>
-<p class="blue-300">Test Blue 300</p>
+<div class="blue-500 font-sm">Test Blue 500</div>
+<div class="blue-400 font-md">Test Blue 400</div>
+<div class="blue-300 font-lg">Test Blue 300</div>
 `;
 ```
