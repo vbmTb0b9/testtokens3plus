@@ -1,4 +1,54 @@
 {
-  "global": {},
+  "Global": {
+    "global": {
+      "global": {
+        "3plus-blue-500": {
+          "value": "#0d59f2",
+          "type": "color",
+          "description": "brand's main color default shade 500"
+        },
+        "3plus-blue-400": {
+          "value": "#3d7af5",
+          "type": "color",
+          "description": "brand's main color lighter shade 400"
+        },
+        "3plus-blue-300": {
+          "value": "#76a4ff",
+          "type": "color",
+          "description": "brand's main color lighter shade 300"
+        }
+      },
+      "alias": {
+        "cta-background-3plus-blue": {
+          "type": "color",
+          "value": "{global.3plus-blue-500}"
+        }
+      },
+      "size-sm": {
+        "value": "8px",
+        "type": "sizing"
+      },
+      "size-md": {
+        "value": "{global.size-sm}*2",
+        "type": "sizing"
+      },
+      "size-lg": {
+        "value": "{global.size-sm}*4",
+        "type": "sizing"
+      },
+      "round-sm": {
+        "value": "4",
+        "type": "borderRadius"
+      },
+      "round-md": {
+        "value": "{round-sm} * 2",
+        "type": "borderRadius"
+      },
+      "round-lg": {
+        "value": "{round-sm} * 4",
+        "type": "borderRadius"
+      }
+    }
+  },
   "$themes": []
 }
