@@ -19,6 +19,15 @@
       "3plus-red": {
         "value": "#f00",
         "type": "color"
+      },
+      "green-500": {
+        "value": "#59ff4d",
+        "type": "color",
+        "description": "super green"
+      },
+      "pink-500": {
+        "value": "#ff00fa",
+        "type": "color"
       }
     },
     "alias": {
