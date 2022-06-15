@@ -3,7 +3,7 @@
 ```js script
 import { html } from 'lit';
 import '@divriots/dockit-core/css-showcases/dockit-css-showcases.define.js';
-import './style.css';
+import '../src/style.css';
 import '~/tokens/variables.css';
 ```
 
