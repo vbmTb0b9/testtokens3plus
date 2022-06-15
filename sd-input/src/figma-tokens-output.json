@@ -32,9 +32,11 @@
           "description": "lemon"
         },
         "pink-31": {
-          "value": "#ff00e8",
-          "type": "color",
-          "description": "super duper pinky"
+          "1": {
+            "value": "#ff00e8",
+            "type": "color",
+            "description": "super duper pinky"
+          }
         }
       },
       "alias": {
