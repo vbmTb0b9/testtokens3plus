@@ -24,7 +24,7 @@
       }
     },
     "size-sm": {
-      "value": "8",
+      "value": "8px",
       "type": "sizing"
     },
     "size-md": {
@@ -46,10 +46,6 @@
     "round-lg": {
       "value": "{round-sm} * 4",
       "type": "borderRadius"
-    },
-    "size-edit-lg": {
-      "value": "32",
-      "type": "sizing"
     }
   },
   "$themes": []
