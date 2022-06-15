@@ -47,7 +47,7 @@
       "value": "{round-sm} * 4",
       "type": "borderRadius"
     },
-    "size-xlg": {
+    "size-edit-lg": {
       "value": "32",
       "type": "sizing"
     }
