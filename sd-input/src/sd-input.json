@@ -25,9 +25,10 @@
         "type": "color",
         "description": "super green"
       },
-      "pink-500": {
-        "value": "#ff00fa",
-        "type": "color"
+      "yellow-500": {
+        "value": "#fefe47",
+        "type": "color",
+        "description": "lemon"
       }
     },
     "alias": {
