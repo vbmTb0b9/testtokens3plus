@@ -16,6 +16,10 @@
           "value": "#76a4ff",
           "type": "color",
           "description": "brand's main color lighter shade 300"
+        },
+        "3plus-red": {
+          "value": "#f00",
+          "type": "color"
         }
       },
       "alias": {
