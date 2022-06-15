@@ -21,19 +21,20 @@
           "value": "#f00",
           "type": "color"
         },
-        "green-500": {
+        "green-900": {
           "value": "#59ff4d",
           "type": "color",
-          "description": "super green 500"
+          "description": "super green 900"
         },
-        "yellow-500": {
+        "yellow-800": {
           "value": "#fefe47",
           "type": "color",
           "description": "lemon"
         },
-        "pink-500": {
+        "pink-26": {
           "value": "#ff00e8",
-          "type": "color"
+          "type": "color",
+          "description": "super duper pinky"
         }
       },
       "alias": {
