@@ -8,9 +8,9 @@
   --figma-global-3plus-blue-300: #76a4ff;
   --figma-alias-cta-background-3plus-blue: #0d59f2;
   --figma-size-sm: 8;
-  --figma-size-md: 8 * 2;
-  --figma-size-lg: 8 * 4;
+  --figma-size-md: 8;
+  --figma-size-lg: 8;
   --figma-round-sm: 4;
-  --figma-round-md: 4 * 2;
-  --figma-round-lg: 4 * 4;
+  --figma-round-md: 4;
+  --figma-round-lg: 4;
 }
