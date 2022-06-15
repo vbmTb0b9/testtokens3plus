@@ -21,17 +21,17 @@
           "value": "#f00",
           "type": "color"
         },
-        "green-seweed": {
+        "green-tea": {
           "value": "#31690a",
           "type": "color",
-          "description": "super green seweed"
+          "description": "super green tea"
         },
         "yellow-1000": {
           "value": "#fefe47",
           "type": "color",
           "description": "lemon"
         },
-        "pink-27": {
+        "pink-26": {
           "value": "#ff00e8",
           "type": "color",
           "description": "super duper pinky"
