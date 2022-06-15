@@ -24,10 +24,6 @@
         "value": "#59ff4d",
         "type": "color",
         "description": "super green"
-      },
-      "pink-500": {
-        "value": "#ff00fa",
-        "type": "color"
       }
     },
     "alias": {
