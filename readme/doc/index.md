@@ -1,24 +1,12 @@
-# Colors
+# Starter Blank
 
-```js script
-import { html } from 'lit';
-import '@divriots/dockit-core/css-showcases/dockit-css-showcases.define.js';
-import '~/tokens/variables.css';
-import '../src/style.css';
-```
+This starter-kit is for advanced user that are already
+familiar with [Backlight](https://backlight.dev).
 
-## Core
+If you are starting with [Backlight](https://backlight.dev), check the links below:
 
-### Primary colors
+- [Explore starter kits](https://backlight.dev/starterkits)
+- [Backlight documentation](https://backlight.dev/docs)
+- [Join chat](https://discord.gg/XkQxSU9)
 
-Primary colors of our brand.
 
-```js story
-export const primary = () => html`
-  <dockit-css-showcases
-    css-props-prefix="--figma-global-3plus-blue"
-    component-class="box"
-    style-key="background-color"
-  ></dockit-css-showcases>
-`;
-```
