@@ -41,11 +41,11 @@
         "type": "borderRadius"
       },
       "round-md": {
-        "value": "{round-sm} * 2",
+        "value": "{global.round-sm}*2",
         "type": "borderRadius"
       },
       "round-lg": {
-        "value": "{round-sm} * 4",
+        "value": "{global.round-sm}*4",
         "type": "borderRadius"
       }
     }
