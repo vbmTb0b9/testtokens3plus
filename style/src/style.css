@@ -1,0 +1,37 @@
+/**  
+  --figma-global-3plus-blue-500: #0d59f2;
+  --figma-global-3plus-blue-400: #3d7af5;
+  --figma-global-3plus-blue-300: #76a4ff;
+  --figma-alias-cta-background-3plus-blue: #0d59f2;
+  --figma-size-sm: 8;
+  --figma-size-md: 8;
+  --figma-size-lg: 8;
+  --figma-round-sm: 4;
+  --figma-round-md: 4;
+  --figma-round-lg: 4;
+  */
+
+.blue-500 {
+  background-color: var(--figma-global-3plus-blue-500);
+  color: #fff;
+}
+
+.blue-400 {
+  background-color: var(--figma-global-3plus-blue-400);
+  color: #fff;
+}
+
+.blue-300 {
+  background-color: var(--figma-global-3plus-blue-300);
+  color: #fff;
+}
+
+.font-sm {
+  font-size: var(--figma-size-sm);
+}
+.font-md {
+  font-size: var(--figma-size-md);
+}
+.font-lg {
+  font-size: var(--figma-size-lg);
+}
