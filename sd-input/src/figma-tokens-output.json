@@ -35,6 +35,11 @@
           "value": "#ff00e8",
           "type": "color",
           "description": "super duper pinky"
+        },
+        "gray": {
+          "value": "#8b8b8b",
+          "type": "color",
+          "description": "เป็นคนเทาๆ"
         }
       },
       "alias": {
