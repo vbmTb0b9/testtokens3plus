@@ -3,14 +3,15 @@
  */
 
 :root {
-  --figma-global-3plus-blue-500: #0d59f2;
-  --figma-global-3plus-blue-400: #3d7af5;
-  --figma-global-3plus-blue-300: #76a4ff;
-  --figma-alias-cta-background-3plus-blue: #0d59f2;
-  --figma-size-sm: 8px;
-  --figma-size-md: 8px * 2;
-  --figma-size-lg: 8px * 4;
-  --figma-round-sm: 4;
-  --figma-round-md: 4 * 2;
-  --figma-round-lg: 4 * 4;
+  --figma-global-global-3plus-blue-500: #0d59f2;
+  --figma-global-global-3plus-blue-400: #3d7af5;
+  --figma-global-global-3plus-blue-300: #76a4ff;
+  --figma-global-global-3plus-red: #f00;
+  --figma-global-alias-cta-background-3plus-blue: #000;
+  --figma-global-size-sm: 8px;
+  --figma-global-size-md: 8px*2;
+  --figma-global-size-lg: 8px*4;
+  --figma-global-round-sm: 4;
+  --figma-global-round-md: 4*2;
+  --figma-global-round-lg: 4*4;
 }
