@@ -20,10 +20,10 @@
         "value": "#f00",
         "type": "color"
       },
-      "green-900": {
+      "green-500": {
         "value": "#59ff4d",
         "type": "color",
-        "description": "super green 900"
+        "description": "super green 500"
       },
       "yellow-500": {
         "value": "#fefe47",
