@@ -29,6 +29,10 @@
         "value": "#fefe47",
         "type": "color",
         "description": "lemon"
+      },
+      "pink": {
+        "value": "#ff00e8",
+        "type": "color"
       }
     },
     "alias": {
