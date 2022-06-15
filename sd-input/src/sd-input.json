@@ -24,6 +24,11 @@
         "value": "#59ff4d",
         "type": "color",
         "description": "super green"
+      },
+      "yellow-500": {
+        "value": "#fefe47",
+        "type": "color",
+        "description": "lemon"
       }
     },
     "alias": {
