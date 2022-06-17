@@ -12,28 +12,28 @@
   */
 
 .blue-500 {
-  background-color: var(--3plus-global-3plus-blue-500);
+  background-color: var(--beci-global-3plus-blue-500);
   color: #fff;
 }
 
 .blue-400 {
-  background-color: var(--3plus-global-3plus-blue-400);
+  background-color: var(--beci-global-3plus-blue-400);
   color: #fff;
 }
 
 .blue-300 {
-  background-color: var(--3plus-global-3plus-blue-300);
+  background-color: var(--beci-global-3plus-blue-300);
   color: #fff;
 }
 
 .font-sm {
-  font-size: var(--3plus-size-sm);
+  font-size: var(--beci-size-sm);
 }
 .font-md {
-  font-size: var(--3plus-size-md);
+  font-size: var(--beci-size-md);
 }
 .font-lg {
-  font-size: var(--3plus-size-lg);
+  font-size: var(--beci-size-lg);
 }
 
 .box {
