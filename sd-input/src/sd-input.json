@@ -39,6 +39,10 @@
         "value": "#8b8b8b",
         "type": "color",
         "description": "เป็นคนเทาๆ"
+      },
+      "purple": {
+        "value": "#66008f",
+        "type": "color"
       }
     },
     "alias": {
