@@ -1,4 +1,4 @@
-@import url("../tokens/variables.css");
+@import url("/tokens/variables.css");
 
 .blue-500 {
   background-color: var(--beci-global-global-3plus-blue-500);
