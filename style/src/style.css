@@ -1,17 +1,17 @@
 @import url("/tokens/variables.css");
 
 .blue-500 {
-  background-color: var(--ch3plus-global-3plus-blue--500);
+  background-color: var(--ch3plus-global-3plus-blue-500);
   color: #fff;
 }
 
 .blue-400 {
-  background-color: var(--ch3plus-global-3plus-blue--400);
+  background-color: var(--ch3plus-global-3plus-blue-400);
   color: #fff;
 }
 
 .blue-300 {
-  background-color: var(--ch3plus-global-3plus-blue--300);
+  background-color: var(--ch3plus-global-3plus-blue-300);
   color: #fff;
 }
 
