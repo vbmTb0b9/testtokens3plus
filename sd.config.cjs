@@ -9,7 +9,7 @@ module.exports = {
     css: {
       transformGroup: 'css',
       buildPath: 'tokens/',
-      prefix: 'beci',
+      prefix: '3plus',
       files: [
         {
           destination: 'variables.css',

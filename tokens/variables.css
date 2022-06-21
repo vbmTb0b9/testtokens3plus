@@ -3,20 +3,20 @@
  */
 
 :root {
-  --beci-global-global-3plus-blue-500: #0d59f2;
-  --beci-global-global-3plus-blue-400: #3d7af5;
-  --beci-global-global-3plus-blue-300: #76a4ff;
-  --beci-global-global-3plus-red: #f00;
-  --beci-global-global-green-tea: #31690a;
-  --beci-global-global-yellow-30: #fefe47;
-  --beci-global-global-pink-31: #ff00e8;
-  --beci-global-global-gray: #8b8b8b;
-  --beci-global-global-purple: #66008f;
-  --beci-global-alias-cta-background-3plus-blue: #000;
-  --beci-global-size-sm: 8px;
-  --beci-global-size-md: 8px*2;
-  --beci-global-size-lg: 8px*4;
-  --beci-global-round-sm: 4;
-  --beci-global-round-md: 4*2;
-  --beci-global-round-lg: 4*4;
+  --3plus-global-global-3plus-blue-500: #0d59f2;
+  --3plus-global-global-3plus-blue-400: #3d7af5;
+  --3plus-global-global-3plus-blue-300: #76a4ff;
+  --3plus-global-global-3plus-red: #f00;
+  --3plus-global-global-green-tea: #31690a;
+  --3plus-global-global-yellow-30: #fefe47;
+  --3plus-global-global-pink-31: #ff00e8;
+  --3plus-global-global-gray: #8b8b8b;
+  --3plus-global-global-purple: #66008f;
+  --3plus-global-alias-cta-background-3plus-blue: #000;
+  --3plus-global-size-sm: 8px;
+  --3plus-global-size-md: 8px*2;
+  --3plus-global-size-lg: 8px*4;
+  --3plus-global-round-sm: 4;
+  --3plus-global-round-md: 4*2;
+  --3plus-global-round-lg: 4*4;
 }
