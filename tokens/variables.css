@@ -3,20 +3,20 @@
  */
 
 :root {
-  --figma-global-3plus-blue-500: #0d59f2;
-  --figma-global-3plus-blue-400: #3d7af5;
-  --figma-global-3plus-blue-300: #76a4ff;
-  --figma-global-3plus-red: #f00;
-  --figma-global-green-tea: #31690a;
-  --figma-global-yellow-30: #fefe47;
-  --figma-global-pink-31: #ff00e8;
-  --figma-global-gray: #8b8b8b;
-  --figma-global-purple: #66008f;
-  --figma-global-alias-cta-background-3plus-blue: #000;
-  --figma-global-size-sm: 8px;
-  --figma-global-size-md: 8px*2;
-  --figma-global-size-lg: 8px*4;
-  --figma-global-round-sm: 4;
-  --figma-global-round-md: 4*2;
-  --figma-global-round-lg: 4*4;
+  --ch3plus-global-3plus-blue-500: #0d59f2;
+  --ch3plus-global-3plus-blue-400: #3d7af5;
+  --ch3plus-global-3plus-blue-300: #76a4ff;
+  --ch3plus-global-3plus-red: #f00;
+  --ch3plus-global-green-tea: #31690a;
+  --ch3plus-global-yellow-30: #fefe47;
+  --ch3plus-global-pink-31: #ff00e8;
+  --ch3plus-global-gray: #8b8b8b;
+  --ch3plus-global-purple: #66008f;
+  --ch3plus-global-alias-cta-background-3plus-blue: #000;
+  --ch3plus-global-size-sm: 8px;
+  --ch3plus-global-size-md: 8px*2;
+  --ch3plus-global-size-lg: 8px*4;
+  --ch3plus-global-round-sm: 4;
+  --ch3plus-global-round-md: 4*2;
+  --ch3plus-global-round-lg: 4*4;
 }
