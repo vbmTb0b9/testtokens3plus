@@ -3,15 +3,15 @@
  */
 
 :root {
-  --ch3plus-global-global-3plus-blue-500: #0d59f2;
-  --ch3plus-global-global-3plus-blue-400: #3d7af5;
-  --ch3plus-global-global-3plus-blue-300: #76a4ff;
-  --ch3plus-global-global-3plus-red: #f00;
-  --ch3plus-global-global-green-tea: #31690a;
-  --ch3plus-global-global-yellow-30: #fefe47;
-  --ch3plus-global-global-pink-31: #ff00e8;
-  --ch3plus-global-global-gray: #8b8b8b;
-  --ch3plus-global-global-purple: #66008f;
+  --ch3plus-global-3plus-blue-500: #0d59f2;
+  --ch3plus-global-3plus-blue-400: #3d7af5;
+  --ch3plus-global-3plus-blue-300: #76a4ff;
+  --ch3plus-global-3plus-red: #f00;
+  --ch3plus-global-green-tea: #31690a;
+  --ch3plus-global-yellow-30: #fefe47;
+  --ch3plus-global-pink-31: #ff00e8;
+  --ch3plus-global-gray: #8b8b8b;
+  --ch3plus-global-purple: #66008f;
   --ch3plus-global-alias-cta-background-3plus-blue: #000;
   --ch3plus-global-size-sm: 8px;
   --ch3plus-global-size-md: 8px*2;
