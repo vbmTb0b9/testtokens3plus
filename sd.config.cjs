@@ -20,29 +20,5 @@ module.exports = {
         },
       ],
     },
-    scss: {
-      transformGroup: 'scss',
-      buildPath: 'tokens/scss/',
-      prefix: 'ch3plus',
-      files: [{
-        destination:'_variables.scss',
-        format: 'scss/variables'
-      }]
-    },
-    android: {
-      transformGroup: 'android',
-      buildPath: 'tokens/android/',
-      prefix: 'ch3plus',
-      files: [
-        {
-          destination: 'font_dimens.xml',
-          format: 'android/fontDimens',
-        },
-        {
-          destination: 'colors.xml',
-          format: 'android/colors'
-        }
-      ],
-    },
   },
 };
