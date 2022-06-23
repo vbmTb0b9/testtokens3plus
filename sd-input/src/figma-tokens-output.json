@@ -1,79 +1,75 @@
 {
-  "Global": {
-    "global": {
-      "3plus-blue-500": {
-        "value": "#0d59f2",
-        "type": "color",
-        "description": "brand's main color default shade 500"
-      },
-      "3plus-blue-400": {
-        "value": "#3d7af5",
-        "type": "color",
-        "description": "brand's main color lighter shade 400"
-      },
-      "3plus-blue-300": {
-        "value": "#76a4ff",
-        "type": "color",
-        "description": "brand's main color lighter shade 300"
-      },
-      "3plus-red": {
-        "value": "#f00",
-        "type": "color"
-      },
-      "green-tea": {
-        "value": "#31690a",
-        "type": "color",
-        "description": "super green tea"
-      },
-      "yellow-30": {
-        "value": "#fefe47",
-        "type": "color",
-        "description": "lemon"
-      },
-      "pink-31": {
-        "value": "#ff00e8",
-        "type": "color",
-        "description": "super duper pinky"
-      },
-      "gray": {
-        "value": "#8b8b8b",
-        "type": "color",
-        "description": "เป็นคนเทาๆ"
-      },
-      "purple": {
-        "value": "#66008f",
-        "type": "color"
-      },
-      "alias": {
-        "cta-background-3plus-blue": {
-          "type": "color",
-          "value": "#000"
-        }
-      },
-      "size-sm": {
-        "value": "8px",
-        "type": "sizing"
-      },
-      "size-md": {
-        "value": "{global.size-sm}*2",
-        "type": "sizing"
-      },
-      "size-lg": {
-        "value": "{global.size-sm}*4",
-        "type": "sizing"
-      },
-      "round-sm": {
-        "value": "4",
-        "type": "borderRadius"
-      },
-      "round-md": {
-        "value": "{global.round-sm}*2",
-        "type": "borderRadius"
-      },
-      "round-lg": {
-        "value": "{global.round-sm}*4",
-        "type": "borderRadius"
-      }
+  "ch3plus": {
+    "3plus-blue-500": {
+      "value": "#0d59f2",
+      "type": "color",
+      "description": "brand's main color default shade 500"
+    },
+    "3plus-blue-400": {
+      "value": "#3d7af5",
+      "type": "color",
+      "description": "brand's main color lighter shade 400"
+    },
+    "3plus-blue-300": {
+      "value": "#76a4ff",
+      "type": "color",
+      "description": "brand's main color lighter shade 300"
+    },
+    "3plus-red": {
+      "value": "#f00",
+      "type": "color"
+    },
+    "green-tea": {
+      "value": "#31690a",
+      "type": "color",
+      "description": "super green tea"
+    },
+    "yellow-30": {
+      "value": "#fefe47",
+      "type": "color",
+      "description": "lemon"
+    },
+    "pink-31": {
+      "value": "#ff00e8",
+      "type": "color",
+      "description": "super duper pinky"
+    },
+    "gray": {
+      "value": "#8b8b8b",
+      "type": "color",
+      "description": "เป็นคนเทาๆ"
+    },
+    "purple": {
+      "value": "#66008f",
+      "type": "color"
+    },
+    "cta-background": {
+      "type": "color",
+      "value": "#000"
+    },
+    "size-sm": {
+      "value": "8px",
+      "type": "sizing"
+    },
+    "size-md": {
+      "value": "16px",
+      "type": "sizing"
+    },
+    "size-lg": {
+      "value": "32px",
+      "type": "sizing"
+    },
+    "round-sm": {
+      "value": "4",
+      "type": "borderRadius"
+    },
+    "round-md": {
+      "value": "8px",
+      "type": "borderRadius"
+    },
+    "round-lg": {
+      "value": "16px",
+      "type": "borderRadius"
     }
   },
   "$themes": []
