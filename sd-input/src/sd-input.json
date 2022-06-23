@@ -59,7 +59,7 @@
     "type": "sizing"
   },
   "round-sm": {
-    "value": 4,
+    "value": "4px",
     "type": "borderRadius"
   },
   "round-md": {
