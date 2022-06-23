@@ -20,5 +20,17 @@ module.exports = {
         },
       ],
     },
+    android: {
+      transformGroup: "android",
+      buildPath: "tokens/android/",
+      prefix: 'ch3plus',
+      files: [{
+        destination: "font_dimens.xml",
+        format: "android/fontDimens"
+      },{
+        destination: "colors.xml",
+        format: "android/colors"
+      }]
+    },
   },
 };
