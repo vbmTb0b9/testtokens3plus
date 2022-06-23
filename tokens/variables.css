@@ -3,16 +3,16 @@
  */
 
 :root {
-  --ch3plus-3plus-blue-500: #0d59f2;
-  --ch3plus-3plus-blue-400: #3d7af5;
-  --ch3plus-3plus-blue-300: #76a4ff;
-  --ch3plus-3plus-red: #f00;
-  --ch3plus-green-tea: #31690a;
-  --ch3plus-yellow-30: #fefe47;
-  --ch3plus-pink-31: #ff00e8;
-  --ch3plus-gray: #8b8b8b;
-  --ch3plus-purple: #66008f;
-  --ch3plus-cta-background: #000;
+  --ch3plus-color-blue-500: #0d59f2;
+  --ch3plus-color-blue-400: #3d7af5;
+  --ch3plus-color-blue-300: #76a4ff;
+  --ch3plus-color-red: #ff0000;
+  --ch3plus-color-tea: #31690a;
+  --ch3plus-color-yellow-30: #fefe47;
+  --ch3plus-color-pink-31: #ff00e8;
+  --ch3plus-color-gray: #8b8b8b;
+  --ch3plus-color-purple: #66008f;
+  --ch3plus-color-cta-background: #000000;
   --ch3plus-size-sm: 8px;
   --ch3plus-size-md: 16px;
   --ch3plus-size-lg: 32px;
