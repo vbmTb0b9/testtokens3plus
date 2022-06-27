@@ -65,7 +65,7 @@
     },
     "font": {
       "body": {
-        "value": "32px",
+        "value": 32,
         "type": "fontSizes"
       }
     },
