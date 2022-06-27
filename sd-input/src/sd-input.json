@@ -66,7 +66,7 @@
     "font": {
       "body": {
         "value": "32px",
-        "type": "sizing"
+        "type": "fontSizes"
       }
     },
     "borderRad": {
@@ -117,9 +117,5 @@
       "value": "100%",
       "type": "lineHeights"
     }
-  },
-  "body": {
-    "value": "32px",
-    "type": "fontSizes"
   }
 }
