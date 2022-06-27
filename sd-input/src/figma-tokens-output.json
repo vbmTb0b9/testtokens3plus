@@ -77,16 +77,17 @@
       "value": "DB Heavent",
       "type": "fontFamilies"
     },
-    "bodyText": {
-      "value": {
-        "fontFamily": "DB Heavent",
-        "fontWeight": "700",
-        "lineHeight": "Auto",
-        "paragraphSpacing": "0",
-        "fontSize": "32px",
-        "letterSpacing": "0%"
-      },
-      "type": "typography"
+    "bold": {
+      "value": "700",
+      "type": "fontWeights"
+    },
+    "lh-100": {
+      "value": "100%",
+      "type": "lineHeights"
+    },
+    "body": {
+      "value": "32px",
+      "type": "fontSizes"
     }
   },
   "$themes": []
