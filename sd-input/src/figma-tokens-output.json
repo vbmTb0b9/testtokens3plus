@@ -72,6 +72,21 @@
     "round-lg": {
       "value": "16px",
       "type": "borderRadius"
+    },
+    "mainFont": {
+      "value": "DB Heavent",
+      "type": "fontFamilies"
+    },
+    "bodyText": {
+      "value": {
+        "fontFamily": "DB Heavent",
+        "fontWeight": "700",
+        "lineHeight": "Auto",
+        "paragraphSpacing": "0",
+        "fontSize": "32px",
+        "letterSpacing": "0%"
+      },
+      "type": "typography"
     }
   },
   "$themes": []
