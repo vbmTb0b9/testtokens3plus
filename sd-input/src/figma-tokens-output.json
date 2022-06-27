@@ -73,17 +73,23 @@
       "value": "16px",
       "type": "borderRadius"
     },
-    "mainFont": {
-      "value": "DB Heavent",
-      "type": "fontFamilies"
+    "fontFam": {
+      "mainFont": {
+        "value": "DB Heavent",
+        "type": "fontFamilies"
+      }
     },
-    "bold": {
-      "value": "700",
-      "type": "fontWeights"
+    "fontWeight": {
+      "bold": {
+        "value": "700",
+        "type": "fontWeights"
+      }
     },
-    "lh-100": {
-      "value": "100%",
-      "type": "lineHeights"
+    "lineHeigh": {
+      "lh-100": {
+        "value": "100%",
+        "type": "lineHeights"
+      }
     },
     "body": {
       "value": "32px",
