@@ -1,23 +1,22 @@
 /**
- * Do not edit directly
- * Generated on Mon, 27 Jun 2022 04:35:27 GMT
+ * Do not edit directly, this file was auto-generated
  */
 
 :root {
-  --color-blue-500: #0d59f2;
-  --color-blue-400: #3d7af5;
-  --color-blue-300: #76a4ff;
-  --color-red: #ff0000;
-  --color-tea: #31690a;
-  --color-yellow-30: #fefe47;
-  --color-pink-31: #ff00e8;
-  --color-gray: #8b8b8b;
-  --color-purple: #66008f;
-  --color-cta-background: #000000;
-  --size-sm: 8px;
-  --size-md: 16px;
-  --size-lg: 32px;
-  --round-sm: 4px;
-  --round-md: 8px;
-  --round-lg: 16px;
+  --ch3plus-color-blue-500: #0d59f2;
+  --ch3plus-color-blue-400: #3d7af5;
+  --ch3plus-color-blue-300: #76a4ff;
+  --ch3plus-color-red: #ff0000;
+  --ch3plus-color-tea: #31690a;
+  --ch3plus-color-yellow-30: #fefe47;
+  --ch3plus-color-pink-31: #ff00e8;
+  --ch3plus-color-gray: #8b8b8b;
+  --ch3plus-color-purple: #66008f;
+  --ch3plus-color-cta-background: #000000;
+  --ch3plus-size-sm: 8px;
+  --ch3plus-size-md: 16px;
+  --ch3plus-size-lg: 32px;
+  --ch3plus-round-sm: 4px;
+  --ch3plus-round-md: 8px;
+  --ch3plus-round-lg: 16px;
 }
