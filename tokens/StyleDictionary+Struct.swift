@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 27 Jun 2022 07:24:13 GMT
+// Generated on Mon, 27 Jun 2022 07:33:05 GMT
 
 
 import UIKit
@@ -28,7 +28,11 @@ internal struct StyleDictionaryStruct {
     internal static let roundLg = 16px
     internal static let roundMd = 8px
     internal static let roundSm = 4px
-    internal static let sizeLg = 32px
-    internal static let sizeMd = 16px
-    internal static let sizeSm = 8px
+    internal static let sizeBorderRadLg = CGFloat(256.00)
+    internal static let sizeBorderRadMd = CGFloat(128.00)
+    internal static let sizeBorderRadSm = CGFloat(64.00)
+    internal static let sizeBoxLg = CGFloat(512.00)
+    internal static let sizeBoxMd = CGFloat(256.00)
+    internal static let sizeBoxSm = CGFloat(128.00)
+    internal static let sizeFontBody = CGFloat(512.00)
 }

@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 27 Jun 2022 07:24:13 GMT
+// Generated on Mon, 27 Jun 2022 07:33:05 GMT
 
 
 import UIKit
@@ -28,7 +28,11 @@ public enum StyleDictionaryEnum {
     public static let roundLg = 16px
     public static let roundMd = 8px
     public static let roundSm = 4px
-    public static let sizeLg = 32px
-    public static let sizeMd = 16px
-    public static let sizeSm = 8px
+    public static let sizeBorderRadLg = CGFloat(256.00)
+    public static let sizeBorderRadMd = CGFloat(128.00)
+    public static let sizeBorderRadSm = CGFloat(64.00)
+    public static let sizeBoxLg = CGFloat(512.00)
+    public static let sizeBoxMd = CGFloat(256.00)
+    public static let sizeBoxSm = CGFloat(128.00)
+    public static let sizeFontBody = CGFloat(512.00)
 }
