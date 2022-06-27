@@ -80,8 +80,12 @@
       }
     },
     "fontWeight": {
-      "bold": {
+      "medium": {
         "value": "Med",
+        "type": "fontWeights"
+      },
+      "bold": {
+        "value": "bold",
         "type": "fontWeights"
       }
     },
