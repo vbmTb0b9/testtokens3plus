@@ -48,42 +48,6 @@
       "value": "#000"
     }
   },
-  "size": {
-    "box": {
-      "sm": {
-        "value": "8px",
-        "type": "sizing"
-      },
-      "md": {
-        "value": "16px",
-        "type": "sizing"
-      },
-      "lg": {
-        "value": "32px",
-        "type": "sizing"
-      }
-    },
-    "font": {
-      "body": {
-        "value": 32,
-        "type": "fontSizes"
-      }
-    },
-    "borderRad": {
-      "sm": {
-        "value": "4px",
-        "type": "sizing"
-      },
-      "md": {
-        "value": "8px",
-        "type": "sizing"
-      },
-      "lg": {
-        "value": "16px",
-        "type": "sizing"
-      }
-    }
-  },
   "round-sm": {
     "value": "4px",
     "type": "borderRadius"
@@ -108,7 +72,7 @@
       "type": "fontWeights"
     },
     "bold": {
-      "value": "bold",
+      "value": "Bold",
       "type": "fontWeights"
     }
   },

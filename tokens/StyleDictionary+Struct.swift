@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 27 Jun 2022 09:13:18 GMT
+// Generated on Mon, 27 Jun 2022 09:27:04 GMT
 
 
 import UIKit
@@ -21,17 +21,10 @@ internal struct StyleDictionaryStruct {
     internal static let colorTea = UIColor(red: 0.192, green: 0.412, blue: 0.039, alpha: 1)
     internal static let colorYellow30 = UIColor(red: 0.996, green: 0.996, blue: 0.278, alpha: 1)
     internal static let fontFamMainFont = DB Heavent
-    internal static let fontWeightBold = bold
+    internal static let fontWeightBold = Bold
     internal static let fontWeightMedium = Med
     internal static let lineHeighLh100 = 100%
     internal static let roundLg = 16px
     internal static let roundMd = 8px
     internal static let roundSm = 4px
-    internal static let sizeBorderRadLg = CGFloat(256.00)
-    internal static let sizeBorderRadMd = CGFloat(128.00)
-    internal static let sizeBorderRadSm = CGFloat(64.00)
-    internal static let sizeBoxLg = CGFloat(512.00)
-    internal static let sizeBoxMd = CGFloat(256.00)
-    internal static let sizeBoxSm = CGFloat(128.00)
-    internal static let sizeFontBody = CGFloat(512.00)
 }

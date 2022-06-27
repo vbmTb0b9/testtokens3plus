@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 27 Jun 2022 09:13:18 GMT
+// Generated on Mon, 27 Jun 2022 09:27:04 GMT
 
 
 import UIKit
@@ -21,17 +21,10 @@ public enum StyleDictionaryEnum {
     public static let colorTea = UIColor(red: 0.192, green: 0.412, blue: 0.039, alpha: 1)
     public static let colorYellow30 = UIColor(red: 0.996, green: 0.996, blue: 0.278, alpha: 1)
     public static let fontFamMainFont = DB Heavent
-    public static let fontWeightBold = bold
+    public static let fontWeightBold = Bold
     public static let fontWeightMedium = Med
     public static let lineHeighLh100 = 100%
     public static let roundLg = 16px
     public static let roundMd = 8px
     public static let roundSm = 4px
-    public static let sizeBorderRadLg = CGFloat(256.00)
-    public static let sizeBorderRadMd = CGFloat(128.00)
-    public static let sizeBorderRadSm = CGFloat(64.00)
-    public static let sizeBoxLg = CGFloat(512.00)
-    public static let sizeBoxMd = CGFloat(256.00)
-    public static let sizeBoxSm = CGFloat(128.00)
-    public static let sizeFontBody = CGFloat(512.00)
 }
