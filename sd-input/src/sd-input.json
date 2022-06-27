@@ -71,5 +71,31 @@
   "round-lg": {
     "value": "16px",
     "type": "borderRadius"
+  },
+  "fontFam": {
+    "mainFont": {
+      "value": "DB Heavent",
+      "type": "fontFamilies"
+    }
+  },
+  "fontWeight": {
+    "medium": {
+      "value": "Med",
+      "type": "fontWeights"
+    },
+    "bold": {
+      "value": "bold",
+      "type": "fontWeights"
+    }
+  },
+  "lineHeigh": {
+    "lh-100": {
+      "value": "100%",
+      "type": "lineHeights"
+    }
+  },
+  "body": {
+    "value": "32px",
+    "type": "fontSizes"
   }
 }
