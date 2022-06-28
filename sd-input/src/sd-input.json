@@ -77,9 +77,51 @@
     }
   },
   "lineHeigh": {
-    "lh-100": {
-      "value": "100%",
+    "lh-120": {
+      "value": "120%",
       "type": "lineHeights"
+    }
+  },
+  "body": {
+    "Desktop": {
+      "value": {
+        "fontFamily": "{fontFam.mainFont}",
+        "fontWeight": "{fontWeight.medium}",
+        "lineHeight": "{lineHeigh.lh-120}",
+        "fontSize": "{fontsize.16}",
+        "letterSpacing": "{ls.02}"
+      },
+      "type": "typography"
+    },
+    "Tablet": {
+      "value": {
+        "fontFamily": "{fontFam.mainFont}",
+        "fontWeight": "{fontWeight.medium}",
+        "lineHeight": "{lineHeigh.lh-120}",
+        "fontSize": "{fontsize.8}",
+        "letterSpacing": "{ls.02}"
+      },
+      "type": "typography"
+    }
+  },
+  "fontsize": {
+    "8": {
+      "value": "8px",
+      "type": "fontSizes"
+    },
+    "16": {
+      "value": "16px",
+      "type": "fontSizes"
+    },
+    "32": {
+      "value": "32px",
+      "type": "fontSizes"
+    }
+  },
+  "ls": {
+    "02": {
+      "value": "0.2px",
+      "type": "letterSpacing"
     }
   }
 }

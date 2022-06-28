@@ -4,12 +4,14 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 27 Jun 2022 09:27:04 GMT
+// Generated on Tue, 28 Jun 2022 03:55:04 GMT
 
 
 import UIKit
 
 internal struct StyleDictionaryStruct {
+    internal static let bodyDesktop = [object Object]
+    internal static let bodyTablet = [object Object]
     internal static let colorBlue300 = UIColor(red: 0.463, green: 0.643, blue: 1.000, alpha: 1)
     internal static let colorBlue400 = UIColor(red: 0.239, green: 0.478, blue: 0.961, alpha: 1)
     internal static let colorBlue500 = UIColor(red: 0.051, green: 0.349, blue: 0.949, alpha: 1)
@@ -23,7 +25,11 @@ internal struct StyleDictionaryStruct {
     internal static let fontFamMainFont = DB Heavent
     internal static let fontWeightBold = Bold
     internal static let fontWeightMedium = Med
-    internal static let lineHeighLh100 = 100%
+    internal static let fontsize16 = 16px
+    internal static let fontsize32 = 32px
+    internal static let fontsize8 = 8px
+    internal static let lineHeighLh120 = 120%
+    internal static let ls02 = 0.2px
     internal static let roundLg = 16px
     internal static let roundMd = 8px
     internal static let roundSm = 4px

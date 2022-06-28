@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 27 Jun 2022 09:27:04 GMT
+ * Generated on Tue, 28 Jun 2022 03:55:04 GMT
  */
 
 :root {
@@ -20,5 +20,11 @@
   --font-fam-main-font: DB Heavent;
   --font-weight-medium: Med;
   --font-weight-bold: Bold;
-  --line-heigh-lh-100: 100%;
+  --line-heigh-lh-120: 120%;
+  --body-desktop: [object Object];
+  --body-tablet: [object Object];
+  --fontsize-8: 8px;
+  --fontsize-16: 16px;
+  --fontsize-32: 32px;
+  --ls-02: 0.2px;
 }
