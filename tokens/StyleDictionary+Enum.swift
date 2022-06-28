@@ -4,14 +4,12 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 28 Jun 2022 03:58:53 GMT
+// Generated on Tue, 28 Jun 2022 04:01:54 GMT
 
 
 import UIKit
 
 public enum StyleDictionaryEnum {
-    public static let bodyDesktop = [object Object]
-    public static let bodyTablet = [object Object]
     public static let colorBlue300 = UIColor(red: 0.463, green: 0.643, blue: 1.000, alpha: 1)
     public static let colorBlue400 = UIColor(red: 0.239, green: 0.478, blue: 0.961, alpha: 1)
     public static let colorBlue500 = UIColor(red: 0.051, green: 0.349, blue: 0.949, alpha: 1)
@@ -25,15 +23,12 @@ public enum StyleDictionaryEnum {
     public static let fontFamMainFont = DB Heavent
     public static let fontWeightBold = Bold
     public static let fontWeightMedium = Med
-    public static let fontsize16 = 16px
-    public static let fontsize32 = 32px
-    public static let fontsize8 = 8px
+    public static let fontsizeDesktop = 32px
+    public static let fontsizeMobile = 12px
+    public static let fontsizeTablet = 16px
     public static let lineHeighLh120 = 120%
     public static let ls02 = 0.2px
     public static let roundLg = 16px
     public static let roundMd = 8px
     public static let roundSm = 4px
-    public static let sizeFontDesktop = CGFloat(512.00)
-    public static let sizeFontMobile = CGFloat(192.00)
-    public static let sizeFontTablet = CGFloat(256.00)
 }
