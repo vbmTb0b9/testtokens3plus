@@ -123,5 +123,21 @@
       "value": "0.2px",
       "type": "letterSpacing"
     }
+  },
+  "size": {
+    "font": {
+      "desktop": {
+        "value": "32px",
+        "type": "sizing"
+      },
+      "tablet": {
+        "value": "16px",
+        "type": "sizing"
+      },
+      "mobile": {
+        "value": "12px",
+        "type": "sizing"
+      }
+    }
   }
 }
