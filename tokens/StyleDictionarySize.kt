@@ -1,7 +1,7 @@
 
 
 // Do not edit directly
-// Generated on Mon, 27 Jun 2022 09:13:18 GMT
+// Generated on Tue, 28 Jun 2022 03:58:53 GMT
 
 
 
@@ -12,11 +12,7 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.*
 
 object StyleDictionarySize {
-  val sizeBorderRadLg = 256.00.dp
-  val sizeBorderRadMd = 128.00.dp
-  val sizeBorderRadSm = 64.00.dp
-  val sizeBoxLg = 512.00.dp
-  val sizeBoxMd = 256.00.dp
-  val sizeBoxSm = 128.00.dp
-  val sizeFontBody = 512.00.sp
+  val sizeFontDesktop = 512.00.sp
+  val sizeFontMobile = 192.00.sp
+  val sizeFontTablet = 256.00.sp
 }
